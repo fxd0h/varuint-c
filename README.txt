@@ -1,1 +1,1 @@
-VariUInt encoder/decoder.
+VarUInt encoder/decoder.
